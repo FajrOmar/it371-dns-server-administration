@@ -6,9 +6,9 @@ This project was completed as part of the IT371 – System Administration course
 
 The objective was to build and configure a Linux server environment by implementing three essential infrastructure services: a DNS Server, a Mail Server, and a MySQL Database Server. Each service was deployed, configured, tested, and documented to demonstrate practical Linux system administration skills.
 
-This repository contains the complete project documentation, including implementation procedures, configuration steps, testing results, troubleshooting, and 
+This repository contains the complete project documentation, including implementation procedures, configuration steps, testing results, troubleshooting, screenshots, and references.
 
-
+⸻
 
 Project Components:
 
@@ -20,9 +20,9 @@ The project consists of three main server services:
 
 Each component contributes to building a functional Linux server environment and was assigned to a specific team member.
 
+⸻
 
-
-My Role:
+My Contributions:
 
 I was responsible for the complete implementation of the DNS Server component.
 
@@ -36,9 +36,9 @@ My responsibilities included:
 - Applying basic security practices and system updates.
 - Troubleshooting configuration issues during deployment.
 - Verifying functionality using Ping, NSLookup, and DIG.
-- Producing comprehensive technical documentation with configuration steps, screenshots, testing results, and recommendations.
+- Producing technical documentation with configuration steps, screenshots, testing results, and recommendations.
 
-
+⸻
 
 Technologies Used:
 
@@ -54,7 +54,7 @@ Technologies Used:
 - NSLookup
 - DIG
 
-
+⸻
 
 Skills Demonstrated:
 
@@ -66,7 +66,7 @@ Skills Demonstrated:
 - Technical Documentation
 - System Testing
 
-
+⸻
 
 Documentation:
 
@@ -77,9 +77,10 @@ The attached project report includes:
 - Security configuration
 - Testing and validation
 - Troubleshooting
-- Sceenshots
+- Screenshots
 - References
 
+⸻
 
 Project Report:
 
