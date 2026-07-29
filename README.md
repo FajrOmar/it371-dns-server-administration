@@ -8,7 +8,7 @@ The objective was to build and configure a Linux server environment by implement
 
 This repository contains the complete project documentation, including implementation procedures, configuration steps, testing results, troubleshooting, screenshots, and references.
 
-⸻
+----
 
 Project Components:
 
@@ -20,7 +20,7 @@ The project consists of three main server services:
 
 Each component contributes to building a functional Linux server environment and was assigned to a specific team member.
 
-⸻
+----
 
 My Contributions:
 
@@ -38,7 +38,7 @@ My responsibilities included:
 - Verifying functionality using Ping, NSLookup, and DIG.
 - Producing technical documentation with configuration steps, screenshots, testing results, and recommendations.
 
-⸻
+----
 
 Technologies Used:
 
@@ -54,7 +54,7 @@ Technologies Used:
 - NSLookup
 - DIG
 
-⸻
+----
 
 Skills Demonstrated:
 
@@ -66,7 +66,7 @@ Skills Demonstrated:
 - Technical Documentation
 - System Testing
 
-⸻
+----
 
 Documentation:
 
@@ -80,7 +80,7 @@ The attached project report includes:
 - Screenshots
 - References
 
-⸻
+----
 
 Project Report:
 
